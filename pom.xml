@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.clelton</groupId>
-	<artifactId>Prj1</artifactId>
+	<artifactId>task-manager-springboot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Prj1</name>
 	<description>Projeto Estudo</description>
