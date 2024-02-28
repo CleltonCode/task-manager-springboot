@@ -1,7 +1,8 @@
-package com.clelton.prj1.dto;
+package com.clelton.prj1.dto.mapper;
 
 import java.util.Objects;
 
+import com.clelton.prj1.dto.TaskDTO;
 import org.springframework.stereotype.Component;
 
 import com.clelton.prj1.entity.TaskEntity;

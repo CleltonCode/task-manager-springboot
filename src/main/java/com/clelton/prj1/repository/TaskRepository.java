@@ -11,5 +11,5 @@ import java.util.Date;
 public interface TaskRepository extends JpaRepository<TaskEntity, Long> {
     TaskDTO findByDescription(String description);
     TaskDTO findByData(Date data);
-    TaskDTO findByCompleted(Boolean completed);
+    TaskDTO findByCompleted(String completed);
 }
