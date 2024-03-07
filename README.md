@@ -46,7 +46,7 @@ Se necessário, você pode ajustar as configurações CORS no projeto. As config
 - Contribua para o desenvolvimento e melhoria contínua do projeto.
 
 ## Autor
-- ** Clelton Henrique
+- Clelton Henrique
 - [cleltonh@gmail.com]
 - [[linkedin](https://www.linkedin.com/in/clelton-henrique)]
 
