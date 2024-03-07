@@ -13,7 +13,7 @@ Bem-vindo ao repositório da Task Manager API, uma aplicação desenvolvida em S
 ## Como Utilizar
 Siga as instruções abaixo para integrar a API ao seu projeto:
 
-1. Clone o repositório: `git clone https://github.com/seuusuario/task-manager-api.git`
+1. Clone o repositório: `git clone https://github.com/CleltonCode/task-manager-api.git`
 2. Abra o projeto em sua IDE favorita.
 3. Execute a aplicação Spring Boot.
 
